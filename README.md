@@ -18,7 +18,6 @@
 
 ### Um pouco mais sobre mim <img src="" width="50"> 
 ```
-javascript
 const luizFelipe = {
   code: [Python, Javascript, JAVA, HTML, CSS],
   tools: [Git, Docker, DBeaver]
