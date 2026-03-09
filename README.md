@@ -17,6 +17,11 @@ const luizFelipe = {
 }
 ```
 
+### Principais Projetos
+
+- [RotaExpress](https://github.com/LuizFelipeBuaszczyk/rotaexpress) | HTML · CSS · JavaScript · NodeJS · Express · PostgreSQL · Sequelize · Docker 
+- [MySystemDown](https://github.com/mysystemdown) | Python · DRF · PostgreSQL · Celery · Redis · RabbitMQ · SMTP · Logging · Pytest  
+
 ---
 
 <em><b>Adoro ensinar e aprender com as pessoas! Pode me chamar a qualquer momento para conversar.</b> :)</em>
