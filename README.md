@@ -12,8 +12,13 @@
 ### Um pouco mais sobre mim
 ```
 const luizFelipe = {
-  code: [Python, Javascript, JAVA, HTML, CSS],
-  tools: [Git, Docker, DBeaver]
+  code: [Python, JavaScript, Java, HTML, CSS],
+  backend: [FastAPI, Django REST Framework, Express.js],
+  frontend: [React],
+  databases: [PostgreSQL],
+  infrastructure: [Docker, Nginx, Redis, RabbitMQ],
+  tools: [Git, GitHub, DBeaver, VSCode],
+  os: [Ubuntu, Windows]
 }
 ```
 
