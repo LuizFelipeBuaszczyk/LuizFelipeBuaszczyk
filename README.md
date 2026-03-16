@@ -18,7 +18,7 @@ const luizFelipe = {
   databases: [PostgreSQL],
   infrastructure: [Docker, Nginx, Redis, RabbitMQ],
   tools: [Git, GitHub, DBeaver, VSCode],
-  os: [Ubuntu, Windows]
+  os: [Linux, Windows]
 }
 ```
 
@@ -26,6 +26,12 @@ const luizFelipe = {
 
 - [RotaExpress](https://github.com/LuizFelipeBuaszczyk/rotaexpress) | HTML · CSS · JavaScript · NodeJS · Express · PostgreSQL · Sequelize · Docker 
 - [MySystemDown](https://github.com/mysystemdown) | Python · DRF · PostgreSQL · Celery · Redis · RabbitMQ · SMTP · Logging · Pytest  
+
+### O que estou aprendendo?
+Atualmente estou focando meus estudos em:
+
+- NextJS
+- LangChain / LangGraph
 
 ---
 
