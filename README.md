@@ -25,7 +25,7 @@ const luizFelipe = {
 ### Principais Projetos
 
 - [RotaExpress](https://github.com/LuizFelipeBuaszczyk/rotaexpress) | HTML · CSS · JavaScript · NodeJS · Express · PostgreSQL · Sequelize · Docker 
-- [MySystemDown](https://github.com/mysystemdown) | Python · DRF · PostgreSQL · Celery · Redis · RabbitMQ · SMTP · Logging · Pytest  
+- [MySystemDown](https://github.com/LuizFelipeBuaszczyk/mysystemdown) | Python · DRF · PostgreSQL · Celery · Redis · RabbitMQ · SMTP · Logging · Pytest  
 
 ### O que estou aprendendo?
 Atualmente estou focando meus estudos em:
