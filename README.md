@@ -23,19 +23,19 @@ luiz_felipe = {
 ### Principais Projetos
 
 - [RotaExpress](https://github.com/LuizFelipeBuaszczyk/rotaexpress) | HTML · CSS · JavaScript · NodeJS · Express · PostgreSQL · Sequelize · Docker 
-- [MySystemDown](https://github.com/LuizFelipeBuaszczyk/mysystemdown) | Python · DRF · PostgreSQL · Celery · Redis · RabbitMQ · SMTP · Logging · Pytest  
+- [MySystemDown](https://github.com/LuizFelipeBuaszczyk/mysystemdown) | Python · DRF · PostgreSQL · Celery · Redis · RabbitMQ · SMTP · Logging · Pytest
 
 ### O que estou aprendendo?
 
 Atualmente estou focando meus estudos em:
 
-- Finalizar meu TCC (Computação Quântica)
+- Finalizar meu TCC
 
 ### Hobbies
 
 Eu **realmente** gosto de tecnologia, então em meu tempo livre eu costumo:
 
-- Entender como "funciona por debaixo do pano"
+- Entender como as coisas funcionam por "debaixo dos panos"
 - Programação Low Level
 - Criar vídeos / conteúdos referentes a assuntos técnicos
 
